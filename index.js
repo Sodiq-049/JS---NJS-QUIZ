@@ -86,35 +86,35 @@ const quizData = [
     },
 
     {
-        Image: "image/code8.jpg",
+        Image: "image/code8.png",
         question: "What is the output of the above code?",
         choices: ["Start, Hello, End, Outside", "Start, Outside, Hello, End", " Outside, Start, Hello, End", "Start, End, Hello, Outside"],
         answer: "Start, Outside, Hello, End"
     },
 
     {
-        Image: "image/code9.jpg",
+        Image: "image/code9.png",
         question: "What is the output of the above code?",
         choices: ["5", "23", "NaN", "SyntaxError"],
         answer: "5"
     },
 
     {
-        Image: "image/code10.jpg",
+        Image: "image/code10.png",
         question: "What is the output of the above code?",
         choices: ["Alice", "Bob", "Undefined", "Error"],
         answer: "Bob"
     },
 
     {
-        Image: "image/code11.jpg",
+        Image: "image/code11.png",
         question: "What is the output of the above code?",
         choices: ["10", "20", "ReferenceError", "Undefined"],
         answer: "20"
     },
 
     {
-        Image: "image/code12.jpg",
+        Image: "image/code12.png",
         question: "What is the output of the above code?",
         choices: ["1, 4, 3, 2", "1, 2, 3, 4", "4, 1, 3, 2", "2, 1, 4, 3"],
         answer: "1, 4, 3, 2"
